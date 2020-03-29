@@ -13,5 +13,5 @@ Git.training
 Sample website with plenty of files for demos
 
 ## Deployment
-
+please deploy
 a simple demo
