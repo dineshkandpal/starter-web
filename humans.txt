@@ -2,6 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
+Dinesh Kandpal Dineshkandpal@gmail.com
 
     <name> -- <role> -- <twitter>
 
