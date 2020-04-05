@@ -1,4 +1,4 @@
-# humanstxt.org/
+	# humanstxt.org/
 # The humans responsible & technology colophon
 
 # TEAM
@@ -7,7 +7,7 @@ Dinesh Kandpal Dineshkandpal@gmail.com
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+ Thanks to all my students
     <name>
 
 # TECHNOLOGY COLOPHON
