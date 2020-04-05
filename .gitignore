@@ -2,3 +2,4 @@ Untitled.txt
 .DS_Store
 *.log
 log/
+*.orig
