@@ -1,5 +1,5 @@
 # Starter Web Repo
-
+Adding New Comments for checking on Example
 This repository is for showing how Git and GitHub work
 
 ## Introduction
@@ -13,5 +13,5 @@ Git.training
 Sample website with plenty of files for demos
 
 ## Deployment
-please deploy
+		please deploy
 a simple demo
