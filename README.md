@@ -11,7 +11,7 @@ as stated the purpose is to demo
 Git.training
 
 Sample website with plenty of files for demos
-
+All rights reservered
 ## Deployment
 		please deploy
 a simple demo
