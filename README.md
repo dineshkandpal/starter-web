@@ -2,6 +2,7 @@
 Adding New Comments for checking on Example
 This repository is for showing how Git and GitHub work
 adding a rebaseline 
+doing emergency fix
 ## Introduction
 this is an introduction
 ## Purpose
